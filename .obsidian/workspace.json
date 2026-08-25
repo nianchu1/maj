@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "开局手顺"
             }
+          },
+          {
+            "id": "6543eaf258e1ec15",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "牌效率.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "牌效率"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -40,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
+                "sortOrder": "alphabeticalReverse",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -199,6 +214,9 @@
   },
   "active": "f3721a271a46e1d3",
   "lastOpenFiles": [
+    "牌效率.md",
+    "Pasted image 20260826003730.png",
+    "04b1e50c913af60af1158538e7e63901_720.jpg",
     "开局手顺.md",
     "Pasted image 20260826003424.png",
     "13a3fe45c9a46b5767691a78ff5efdef.jpg",
