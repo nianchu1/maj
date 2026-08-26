@@ -13,15 +13,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "开局手顺.md",
+                "file": "开局/开局选择.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "开局手顺"
+              "title": "开局选择"
+            }
+          },
+          {
+            "id": "4ee7bd5bed79743a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "牌效.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "牌效"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -199,15 +214,23 @@
   },
   "active": "f3721a271a46e1d3",
   "lastOpenFiles": [
+    "牌效.md",
+    "attach/13a3fe45c9a46b5767691a78ff5efdef.jpg",
+    "attach",
+    "开局/开局选择.md",
+    "开局/attach/Pasted image 20260826205709.png",
+    "开局/attach/2b2321564557474ad7ad26e549e6999e_720.jpg",
+    "开局/attach",
+    "尾局",
+    "中盘",
+    "开局",
+    "13a3fe45c9a46b5767691a78ff5efdef.jpg",
     "牌效率.md",
     "Pasted image 20260826003730.png",
     "04b1e50c913af60af1158538e7e63901_720.jpg",
-    "开局手顺.md",
     "Pasted image 20260826003424.png",
-    "13a3fe45c9a46b5767691a78ff5efdef.jpg",
     "手机测试.md",
     "2323.md",
-    "未命名",
     "测试",
     "日麻",
     "a.txt",
@@ -215,7 +238,6 @@
     "未命名.base",
     "未命名.canvas",
     "创建链接.md",
-    "欢迎.md",
-    "未命名 1.base"
+    "欢迎.md"
   ]
 }
