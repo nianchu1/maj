@@ -1,75 +1,42 @@
 {
   "main": {
-    "id": "6bb28c93dfd68125",
+    "id": "c8b244bd0f0dd605",
     "type": "split",
     "children": [
       {
-        "id": "dc96687bf926cbca",
+        "id": "8f0ff8a2e51d8d28",
         "type": "tabs",
         "children": [
           {
-            "id": "af18003f9187bae8",
+            "id": "77674b2e500fffef",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "开局/开局选择.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "开局选择"
-            }
-          },
-          {
-            "id": "4ee7bd5bed79743a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中盘/无安弃胡手顺.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无安弃胡手顺"
-            }
-          },
-          {
-            "id": "46f75f2d45c51be5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "中盘/无安弃胡手顺.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "无安弃胡手顺"
+              "title": "新标签页"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "cf1b4a25c96010ed",
+    "id": "b00cc56da332ab51",
     "type": "split",
     "children": [
       {
-        "id": "e361f0da005474f5",
+        "id": "f21e3ed6a25a818c",
         "type": "tabs",
         "children": [
           {
-            "id": "53485d73f58aa0c5",
+            "id": "0d49048e58e64887",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabeticalReverse",
+                "sortOrder": "alphabetical",
                 "autoReveal": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -79,7 +46,7 @@
             }
           },
           {
-            "id": "39cf07c77685708a",
+            "id": "dd5f76a69b186d3c",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -96,7 +63,7 @@
             }
           },
           {
-            "id": "ba61fb92e178d450",
+            "id": "61b908c95752daa5",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -115,15 +82,15 @@
     "width": 300
   },
   "right": {
-    "id": "c7a37b7782b61e2a",
+    "id": "2d5460fe7c02f5be",
     "type": "split",
     "children": [
       {
-        "id": "f99bfc9b34828f8a",
+        "id": "466370b09691d670",
         "type": "tabs",
         "children": [
           {
-            "id": "638b65b5bef33c94",
+            "id": "b53bd6f289f25e9c",
             "type": "leaf",
             "state": {
               "type": "backlink",
@@ -141,7 +108,7 @@
             }
           },
           {
-            "id": "2f96b272cbee11bb",
+            "id": "ef0fae909ebced3a",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
@@ -154,7 +121,7 @@
             }
           },
           {
-            "id": "a13c975c0087b16b",
+            "id": "e84007903afd359d",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -169,7 +136,7 @@
             }
           },
           {
-            "id": "e2d0162cf8873348",
+            "id": "059bc21f707080c6",
             "type": "leaf",
             "state": {
               "type": "all-properties",
@@ -183,7 +150,7 @@
             }
           },
           {
-            "id": "016a270a2650d77e",
+            "id": "6f7d45f068182246",
             "type": "leaf",
             "state": {
               "type": "outline",
@@ -197,23 +164,13 @@
             }
           },
           {
-            "id": "f3721a271a46e1d3",
+            "id": "20ed7eeef420e9bb",
             "type": "leaf",
             "state": {
               "type": "review-queue-list-view",
               "state": {},
-              "icon": "SpacedRepIcon",
-              "title": "笔记复习序列"
-            }
-          },
-          {
-            "id": "aa82553413750a72",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "review-queue-list-view"
             }
           }
         ],
@@ -221,11 +178,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
-      "obsidian-git:Open Git source control": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -233,40 +190,10 @@
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
-      "obsidian-spaced-repetition:复习卡片": false
+      "obsidian-spaced-repetition:复习卡片": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f3721a271a46e1d3",
-  "lastOpenFiles": [
-    "中盘/无安弃胡手顺.md",
-    "中盘/attach/Pasted image 20260828232744.png",
-    "中盘/牌效.md",
-    "中盘/attach/Pasted image 20260828232341.png",
-    "中盘/attach/Pasted image 20260828232303.png",
-    "中盘/attach/Pasted image 20260828232225.png",
-    "中盘/attach/Pasted image 20260828225651.png",
-    "中盘/attach/99575c190f7e3de4f4e403c64652b007.png",
-    "中盘/attach/Pasted image 20260828224238.png",
-    "中盘/attach/Pasted image 20260828223724.png",
-    "中盘/attach/Pasted image 20260828223212.png",
-    "中盘/attach/59700d925ba2817f7c9e4044d7706d63.png",
-    "尾局/下车.md",
-    "尾局/attach",
-    "未命名",
-    "开局/开局选择.md",
-    "中盘/attach",
-    "开局/attach",
-    "尾局",
-    "中盘",
-    "开局",
-    "牌效率.md",
-    "手机测试.md",
-    "2323.md",
-    "测试",
-    "日麻",
-    "a.txt",
-    "未命名.canvas",
-    "创建链接.md",
-    "欢迎.md"
-  ]
+  "active": "20ed7eeef420e9bb",
+  "lastOpenFiles": []
 }
