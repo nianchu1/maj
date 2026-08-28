@@ -188,6 +188,7 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "中盘/牌效.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -217,7 +218,7 @@
             }
           }
         ],
-        "currentTab": 6
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -236,8 +237,9 @@
       "obsidian-spaced-repetition:复习卡片": false
     }
   },
-  "active": "53485d73f58aa0c5",
+  "active": "016a270a2650d77e",
   "lastOpenFiles": [
+    "中盘/attach/Pasted image 20260828223724.png",
     "中盘/attach/Pasted image 20260828223212.png",
     "中盘/无安弃胡手顺.md",
     "中盘/attach/59700d925ba2817f7c9e4044d7706d63.png",
@@ -255,7 +257,6 @@
     "中盘/attach/13a3fe45c9a46b5767691a78ff5efdef.jpg",
     "中盘/attach",
     "开局/attach/Pasted image 20260826205709.png",
-    "开局/attach/2b2321564557474ad7ad26e549e6999e_720.jpg",
     "开局/attach",
     "尾局",
     "中盘",
