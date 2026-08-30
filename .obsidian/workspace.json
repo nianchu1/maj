@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "中盘/牌效.md",
+                "file": "尾局/下车.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "牌效"
+              "title": "下车"
             }
           }
         ],
@@ -174,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中盘/牌效.md",
+                "file": "尾局/下车.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -215,6 +215,10 @@
   },
   "active": "3d19f9affff065a1",
   "lastOpenFiles": [
+    "开局/开局手顺.md",
+    "开局/attach/Pasted image 20260830213923.png",
+    "开局/attach/Pasted image 20260830213850.png",
+    "中盘/牌效.md",
     "中盘/attach/Pasted image 20260830202213.png",
     "中盘/attach/Pasted image 20260830202126.png",
     "中盘/attach/Pasted image 20260830201516.png",
@@ -223,13 +227,9 @@
     "中盘/attach/670607c0c1f213c0a7ab464821799db9.png",
     "中盘/别家立直后防守路线.md",
     "中盘/attach/7c0a5e30701f596011d8bb72da44bf59.png",
-    "中盘/牌效.md",
     "尾局/下车.md",
     "中盘/attach/Pasted image 20260830162103.png",
     "中盘/attach/Pasted image 20260830162039.png",
-    "中盘/防守做牌路线.md",
-    "中盘/attach/Pasted image 20260830161551.png",
-    "中盘/attach/Pasted image 20260830161500.png",
-    "中盘/attach/Pasted image 20260830161448.png"
+    "中盘/防守做牌路线.md"
   ]
 }
