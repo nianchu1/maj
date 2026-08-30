@@ -174,7 +174,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中盘/做牌思路.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -194,7 +193,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -213,11 +212,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "3d19f9affff065a1",
+  "active": "5cf40193fa01feee",
   "lastOpenFiles": [
+    "中盘/做牌思路.md",
     "中盘/attach/670607c0c1f213c0a7ab464821799db9.png",
     "中盘/别家立直后防守路线.md",
-    "中盘/做牌思路.md",
     "中盘/attach/7c0a5e30701f596011d8bb72da44bf59.png",
     "中盘/牌效.md",
     "尾局/下车.md",
