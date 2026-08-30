@@ -11,10 +11,14 @@
             "id": "b4f20962fdc7587b",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "中盘/防守做牌路线.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "防守做牌路线"
             }
           }
         ]
@@ -194,6 +198,8 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5cf40193fa01feee",
-  "lastOpenFiles": []
+  "active": "b4f20962fdc7587b",
+  "lastOpenFiles": [
+    "中盘/防守做牌路线.md"
+  ]
 }
