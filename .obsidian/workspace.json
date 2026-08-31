@@ -159,7 +159,6 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "中盘/做牌思路.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -179,7 +178,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -198,8 +197,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "b4f20962fdc7587b",
+  "active": "5cf40193fa01feee",
   "lastOpenFiles": [
+    "中盘/做牌思路.md",
     "中盘/attach/Pasted image 20260830221237.png",
     "中盘/attach/Pasted image 20260830221228.png",
     "中盘/牌效.md",
@@ -207,7 +207,6 @@
     "中盘/别家立直后防守路线.md",
     "中盘/attach/Pasted image 20260830220059.png",
     "中盘/attach/Pasted image 20260830220023.png",
-    "中盘/做牌思路.md",
     "中盘/attach/Pasted image 20260830214932.png",
     "中盘/attach/Pasted image 20260830214242.png",
     "中盘/attach/Pasted image 20260830214204.png",
@@ -215,7 +214,6 @@
     "中盘/attach/Pasted image 20260830214051.png",
     "尾局/下车.md",
     "开局/attach/Pasted image 20260830213923.png",
-    "开局/attach/Pasted image 20260830213850.png",
     "中盘/防守做牌路线.md"
   ]
 }
